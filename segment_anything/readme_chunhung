@@ -1,0 +1,4 @@
+
+
+1. Change sam.py Encoder type to ANVILEncoder
+2. Change _build_sam under build_sam,  ImageEncoder to ANVILEncoder
